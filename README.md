@@ -136,6 +136,8 @@ Acción sugerida: revisar precio, exhibición y promociones de estos artículos 
 | Belleza y Cuidado Personal | 47 | 2023-09-10 | Martín García | 605,80 |
 | Juguetes y Entretenimiento | 193 | 2024-10-19 | Tomás Díaz | 462,26 |
 
+![Ranking de pedidos por categoría](capturas/captura_ranking.png)
+   
 Electrónica presenta una escala muy superior: su pedido líder es más de cuatro veces el líder de Hogar. Esto advierte que comparar montos absolutos entre categorías puede ocultar diferencias de precio; el ranking particionado permite evaluar cada categoría dentro de su propia escala.
 
 ### 6. Rendimiento de sucursales
